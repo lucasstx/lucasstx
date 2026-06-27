@@ -1,13 +1,5 @@
 ### Hello, guys
 I'm Pedro Lucas. technical in informatic! 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://streak-stats.demolab.com/?user=lucasstx&theme=dark&hide_border=true&ring=pink&fire=pink&currStreakLabel=white" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lucasstx&show_icons=true&theme=dracula&layout=compact&bg_color=151515&title_color=FFC0CB&hide_border=true" />
- </div>
- 
- &nbsp;
- &nbsp;
-
  #### Main Stack:
 
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
